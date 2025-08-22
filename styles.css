@@ -11,7 +11,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #1e293b;
+    color: #73dca9;
     padding: 1rem;
 }
 
@@ -133,7 +133,7 @@ header p {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    background: linear-gradient(135deg, #3bf689, #0aa930);
     color: white;
     box-shadow: 0 4px 14px 0 rgba(59, 130, 246, 0.25);
 }
@@ -186,9 +186,9 @@ header p {
 }
 
 .mode-btn.active {
-    background: linear-gradient(135deg, #3b82f6, #1d4ed8);
+    background: linear-gradient(135deg, #dca312, #bb960e);
     color: white;
-    border-color: #3b82f6;
+    border-color: #f36037;
     box-shadow: 0 4px 14px 0 rgba(59, 130, 246, 0.25);
 }
 
